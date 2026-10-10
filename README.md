@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Qianruo (Mandy) Tan 👋</h1>
 
-<!--
-**Geniett0024/Geniett0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  MS Biostatistics @ NYU | Health Data Science
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Exploring the intersection of statistics, healthcare, and data science.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MS Biostatistics student at New York University interested in
+biostatistics, health data science, and data-driven healthcare research.
+
+## About Me
+
+- 🎓 MS in Biostatistics @ New York University
+- 📊 Interested in biostatistics, health data science, and causal inference
+- 💊 Career interests: pharmaceutical R&D and drug development
+- 🔬 Experience with healthcare and public health data
+- 🧠 Currently working with R, Python, SAS, and SQL
+
+## Technical Skills
+
+**Languages:** R, Python, SAS, SQL  
+**Statistics:** Regression, GLMs, Survival Analysis, Causal Inference, Bootstrap  
+**Data Science:** pandas, NumPy, scikit-learn  
+**Tools:** Git, GitHub, Quarto, RStudio, VS Code
+
+## Selected Projects
+
+### ICU Treatment Policy Evaluation
+Offline policy evaluation using MIMIC-IV ICU data, including:
+Thompson Sampling, IPS, WIS, doubly robust estimation, and bootstrap inference.
+
+### Public Health Data Analysis
+Statistical analysis and visualization of population health datasets using R,
+SAS, and regression-based methods.
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/qianruo-tan-a43047430/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
